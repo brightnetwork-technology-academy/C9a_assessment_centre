@@ -78,15 +78,21 @@ There's two things we would like to see being done when using the Trello board. 
 
 Please click on the link that corresponds to your group number. If you haven't already got a Trello account, you will be prompted to make one. Please follow the process of signing up for an account and then proceed to joining your groups' Trello board.
 
-Group 1: https://trello.com/invite/b/9wpshdx8/a8aaa3658b9f41aa067ad120743290cb/group-1
+Group 1: https://trello.com/b/kXeIZyoh/bnta-c9a-group-1
 
-Group 2: https://trello.com/invite/b/uFURDjmg/f0da519671f327be28c2328e21345197/group-2
+Group 2: https://trello.com/b/EI6NPGto/bnta-c9a-group-2
 
-Group 3: https://trello.com/invite/b/SainDHfH/cf5535c3ac95b75404de9c49287e2b1c/group-3
+Group 3: https://trello.com/b/adUJp1A0/bnta-c9a-group-3
 
-Group 4: https://trello.com/invite/b/8pAYXN4f/8350cc28dc9b1d316c26f2f163408020/group-4
+Group 4: https://trello.com/b/Mp1U1VAn/bnta-c9a-group-4
 
-Group 5: https://trello.com/invite/b/eTc9X27L/071d8d9b54e2fb8b46d02de3e1d6a918/group-5
+Group 5: https://trello.com/b/IdcrY6Y8/bnta-c9a-group-5
+
+Group 5: https://trello.com/b/KM304XeH/bnta-c9a-group-6
+
+Group 5: https://trello.com/b/dWTIbVXi/bnta-c9a-group-7
+
+Group 5: https://trello.com/b/40Hj4kD5/bnta-c9a-group-8
 
 
 
