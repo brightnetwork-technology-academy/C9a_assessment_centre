@@ -88,11 +88,11 @@ Group 4: https://trello.com/b/Mp1U1VAn/bnta-c9a-group-4
 
 Group 5: https://trello.com/b/IdcrY6Y8/bnta-c9a-group-5
 
-Group 5: https://trello.com/b/KM304XeH/bnta-c9a-group-6
+Group 6: https://trello.com/b/KM304XeH/bnta-c9a-group-6
 
-Group 5: https://trello.com/b/dWTIbVXi/bnta-c9a-group-7
+<!-- Group 7: https://trello.com/b/dWTIbVXi/bnta-c9a-group-7 -->
 
-Group 5: https://trello.com/b/40Hj4kD5/bnta-c9a-group-8
+<!-- Group 8: https://trello.com/b/40Hj4kD5/bnta-c9a-group-8 -->
 
 
 
