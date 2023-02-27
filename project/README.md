@@ -58,7 +58,7 @@ We have designed a workflow to guide you through the creation of your website. T
 
 The workflow looks something like this:
 
-1. Download the zip file from the Egnyte link provided. Extract the files.
+1. Download the zip file from Github. Extract the files.
 
 2. Look through the design example to get an idea of how you'll tackle the project. This step is crucial to help you think ahead for CSS classes and their reusability e.g. seeing if there are any parts of your website that could be styled the same.
 
@@ -88,7 +88,7 @@ Group 4: https://trello.com/b/Mp1U1VAn/bnta-c9a-group-4
 
 Group 5: https://trello.com/b/IdcrY6Y8/bnta-c9a-group-5
 
-Group 6: https://trello.com/b/KM304XeH/bnta-c9a-group-6
+<!-- Group 6: https://trello.com/b/KM304XeH/bnta-c9a-group-6 -->
 
 <!-- Group 7: https://trello.com/b/dWTIbVXi/bnta-c9a-group-7 -->
 
